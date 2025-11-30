@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\NewsPulse.API\\NewsPulse.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\NewsPulse.Worker\\NewsPulse.Worker.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

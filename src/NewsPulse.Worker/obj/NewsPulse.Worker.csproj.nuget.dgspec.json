@@ -54,9 +54,21 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.5.7, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.0, )"
             }
           },
           "imports": [
@@ -197,6 +209,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.6.5, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.22, )"
@@ -257,6 +273,9 @@
               "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\NewsPulse.Application.csproj": {
                 "projectPath": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\NewsPulse.Application.csproj"
               },
+              "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Domain\\NewsPulse.Domain.csproj": {
+                "projectPath": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Domain\\NewsPulse.Domain.csproj"
+              },
               "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj"
               }
@@ -279,6 +298,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Elastic.Clients.Elasticsearch": {
+              "target": "Package",
+              "version": "[9.2.2, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.5.7, )"
+            },
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
               "version": "[8.0.1, )"

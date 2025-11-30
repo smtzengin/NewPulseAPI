@@ -8,11 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Elastic.Clients.Elasticsearch" Version="9.2.2" />
+    <PackageReference Include="MassTransit.RabbitMQ" Version="8.5.7" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\NewsPulse.Application\NewsPulse.Application.csproj" />
     <ProjectReference Include="..\NewsPulse.Infrastructure\NewsPulse.Infrastructure.csproj" />
+    <ProjectReference Include="..\NewsPulse.Domain\NewsPulse.Domain.csproj" />
   </ItemGroup>
 </Project>

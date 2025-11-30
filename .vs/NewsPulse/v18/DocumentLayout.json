@@ -3,44 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.application\\features\\news\\commands\\syncnews\\syncnews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|solutionrelative:src\\newspulse.application\\features\\news\\commands\\syncnews\\syncnews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B993521B-5C66-41F0-A0D7-E67AB1426039}|src\\NewsPulse.API\\NewsPulse.API.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B993521B-5C66-41F0-A0D7-E67AB1426039}|src\\NewsPulse.API\\NewsPulse.API.csproj|solutionrelative:src\\newspulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.application\\features\\news\\commands\\createnewscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|solutionrelative:src\\newspulse.application\\features\\news\\commands\\createnewscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.infrastructure\\repositories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|solutionrelative:src\\newspulse.infrastructure\\repositories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B993521B-5C66-41F0-A0D7-E67AB1426039}|src\\NewsPulse.API\\NewsPulse.API.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.api\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B993521B-5C66-41F0-A0D7-E67AB1426039}|src\\NewsPulse.API\\NewsPulse.API.csproj|solutionrelative:src\\newspulse.api\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.application\\interfaces\\repositories\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|solutionrelative:src\\newspulse.application\\interfaces\\repositories\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|solutionrelative:src\\newspulse.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3371D404-0285-486A-8110-E50304508DE2}|src\\NewsPulse.Domain\\NewsPulse.Domain.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.domain\\entities\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3371D404-0285-486A-8110-E50304508DE2}|src\\NewsPulse.Domain\\NewsPulse.Domain.csproj|solutionrelative:src\\newspulse.domain\\entities\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.application\\newspulse.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|solutionrelative:src\\newspulse.application\\newspulse.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.infrastructure\\persistence\\configurations\\newsarticleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|solutionrelative:src\\newspulse.infrastructure\\persistence\\configurations\\newsarticleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.infrastructure\\newspulse.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|solutionrelative:src\\newspulse.infrastructure\\newspulse.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.infrastructure\\persistence\\newscontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|solutionrelative:src\\newspulse.infrastructure\\persistence\\newscontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{222CD08D-3EC3-46FE-8808-2DB408EF6F15}|src{222CD08D-3EC3-46FE-8808-2DB408EF6F15}|C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
       "RelativeMoniker": "D:0:0:{222CD08D-3EC3-46FE-8808-2DB408EF6F15}|src{222CD08D-3EC3-46FE-8808-2DB408EF6F15}|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.application\\features\\news\\queries\\getnewsbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|solutionrelative:src\\newspulse.application\\features\\news\\queries\\getnewsbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.infrastructure\\persistence\\newspulsedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|solutionrelative:src\\newspulse.infrastructure\\persistence\\newspulsedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3371D404-0285-486A-8110-E50304508DE2}|src\\NewsPulse.Domain\\NewsPulse.Domain.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3371D404-0285-486A-8110-E50304508DE2}|src\\NewsPulse.Domain\\NewsPulse.Domain.csproj|solutionrelative:src\\newspulse.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.application\\newspulse.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|solutionrelative:src\\newspulse.application\\newspulse.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A4F791-04B9-4161-BDDD-70113A6C31BB}|src\\NewsPulse.Worker\\NewsPulse.Worker.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A4F791-04B9-4161-BDDD-70113A6C31BB}|src\\NewsPulse.Worker\\NewsPulse.Worker.csproj|solutionrelative:src\\newspulse.worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.infrastructure\\newspulse.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|solutionrelative:src\\newspulse.infrastructure\\newspulse.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.application\\interfaces\\repositories\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587AAD2C-8515-469F-9298-9D8A6B5224E1}|src\\NewsPulse.Application\\NewsPulse.Application.csproj|solutionrelative:src\\newspulse.application\\interfaces\\repositories\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A4F791-04B9-4161-BDDD-70113A6C31BB}|src\\NewsPulse.Worker\\NewsPulse.Worker.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.worker\\consumers\\newscreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A4F791-04B9-4161-BDDD-70113A6C31BB}|src\\NewsPulse.Worker\\NewsPulse.Worker.csproj|solutionrelative:src\\newspulse.worker\\consumers\\newscreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A4F791-04B9-4161-BDDD-70113A6C31BB}|src\\NewsPulse.Worker\\NewsPulse.Worker.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.worker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A4F791-04B9-4161-BDDD-70113A6C31BB}|src\\NewsPulse.Worker\\NewsPulse.Worker.csproj|solutionrelative:src\\newspulse.worker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A4F791-04B9-4161-BDDD-70113A6C31BB}|src\\NewsPulse.Worker\\NewsPulse.Worker.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.worker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60A4F791-04B9-4161-BDDD-70113A6C31BB}|src\\NewsPulse.Worker\\NewsPulse.Worker.csproj|solutionrelative:src\\newspulse.worker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A4F791-04B9-4161-BDDD-70113A6C31BB}|src\\NewsPulse.Worker\\NewsPulse.Worker.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.worker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60A4F791-04B9-4161-BDDD-70113A6C31BB}|src\\NewsPulse.Worker\\NewsPulse.Worker.csproj|solutionrelative:src\\newspulse.worker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B993521B-5C66-41F0-A0D7-E67AB1426039}|src\\NewsPulse.API\\NewsPulse.API.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B993521B-5C66-41F0-A0D7-E67AB1426039}|src\\NewsPulse.API\\NewsPulse.API.csproj|solutionrelative:src\\newspulse.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3371D404-0285-486A-8110-E50304508DE2}|src\\NewsPulse.Domain\\NewsPulse.Domain.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.domain\\events\\newscreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3371D404-0285-486A-8110-E50304508DE2}|src\\NewsPulse.Domain\\NewsPulse.Domain.csproj|solutionrelative:src\\newspulse.domain\\events\\newscreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.infrastructure\\repositories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|solutionrelative:src\\newspulse.infrastructure\\repositories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3371D404-0285-486A-8110-E50304508DE2}|src\\NewsPulse.Domain\\NewsPulse.Domain.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.domain\\entities\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3371D404-0285-486A-8110-E50304508DE2}|src\\NewsPulse.Domain\\NewsPulse.Domain.csproj|solutionrelative:src\\newspulse.domain\\entities\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|c:\\users\\smtzn\\source\\repos\\smtzengin\\newpulseapi\\src\\newspulse.infrastructure\\persistence\\configurations\\newsarticleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E422BE0C-CFCB-41C6-B156-803AF588AAB3}|src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj|solutionrelative:src\\newspulse.infrastructure\\persistence\\configurations\\newsarticleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,76 +98,271 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NewsArticle.cs",
-              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Domain\\Entities\\NewsArticle.cs",
-              "RelativeDocumentMoniker": "src\\NewsPulse.Domain\\Entities\\NewsArticle.cs",
-              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Domain\\Entities\\NewsArticle.cs",
-              "RelativeToolTip": "src\\NewsPulse.Domain\\Entities\\NewsArticle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SyncNews.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\Features\\News\\Commands\\SyncNews\\SyncNews.cs",
+              "RelativeDocumentMoniker": "src\\NewsPulse.Application\\Features\\News\\Commands\\SyncNews\\SyncNews.cs",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\Features\\News\\Commands\\SyncNews\\SyncNews.cs",
+              "RelativeToolTip": "src\\NewsPulse.Application\\Features\\News\\Commands\\SyncNews\\SyncNews.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T12:27:20.196Z",
+              "WhenOpened": "2025-11-30T13:17:15.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CreateNewsCommand.cs",
               "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\Features\\News\\Commands\\CreateNewsCommand.cs",
               "RelativeDocumentMoniker": "src\\NewsPulse.Application\\Features\\News\\Commands\\CreateNewsCommand.cs",
               "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\Features\\News\\Commands\\CreateNewsCommand.cs",
               "RelativeToolTip": "src\\NewsPulse.Application\\Features\\News\\Commands\\CreateNewsCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T12:14:09.404Z",
+              "WhenOpened": "2025-11-30T13:16:38.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "INewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\Interfaces\\Repositories\\INewsRepository.cs",
+              "RelativeDocumentMoniker": "src\\NewsPulse.Application\\Interfaces\\Repositories\\INewsRepository.cs",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\Interfaces\\Repositories\\INewsRepository.cs",
+              "RelativeToolTip": "src\\NewsPulse.Application\\Interfaces\\Repositories\\INewsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:50:40.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Worker\\Program.cs",
+              "RelativeDocumentMoniker": "src\\NewsPulse.Worker\\Program.cs",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Worker\\Program.cs",
+              "RelativeToolTip": "src\\NewsPulse.Worker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:42:32.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NewsCreatedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Worker\\Consumers\\NewsCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "src\\NewsPulse.Worker\\Consumers\\NewsCreatedConsumer.cs",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Worker\\Consumers\\NewsCreatedConsumer.cs",
+              "RelativeToolTip": "src\\NewsPulse.Worker\\Consumers\\NewsCreatedConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:40:14.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\NewsPulse.API\\Program.cs",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.API\\Program.cs",
+              "RelativeToolTip": "src\\NewsPulse.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:34:57.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NewsCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Domain\\Events\\NewsCreatedEvent.cs",
+              "RelativeDocumentMoniker": "src\\NewsPulse.Domain\\Events\\NewsCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Domain\\Events\\NewsCreatedEvent.cs",
+              "RelativeToolTip": "src\\NewsPulse.Domain\\Events\\NewsCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:34:47.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "NewsRepository.cs",
               "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Infrastructure\\Repositories\\NewsRepository.cs",
               "RelativeDocumentMoniker": "src\\NewsPulse.Infrastructure\\Repositories\\NewsRepository.cs",
               "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Infrastructure\\Repositories\\NewsRepository.cs",
               "RelativeToolTip": "src\\NewsPulse.Infrastructure\\Repositories\\NewsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T12:13:28.726Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "INewsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\Interfaces\\Repositories\\INewsRepository.cs",
-              "RelativeDocumentMoniker": "src\\NewsPulse.Application\\Interfaces\\Repositories\\INewsRepository.cs",
-              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\Interfaces\\Repositories\\INewsRepository.cs",
-              "RelativeToolTip": "src\\NewsPulse.Application\\Interfaces\\Repositories\\INewsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T12:12:45.481Z",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-11-30T11:34:08.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NewsPulse.Application",
+              "DocumentIndex": 9,
+              "Title": "NewsPulse.Application.csproj",
               "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\NewsPulse.Application.csproj",
               "RelativeDocumentMoniker": "src\\NewsPulse.Application\\NewsPulse.Application.csproj",
               "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\NewsPulse.Application.csproj",
               "RelativeToolTip": "src\\NewsPulse.Application\\NewsPulse.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-30T12:11:50.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Worker\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\NewsPulse.Worker\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Worker\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\NewsPulse.Worker\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-30T12:44:52.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.API\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "src\\NewsPulse.API\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.API\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "src\\NewsPulse.API\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:35:14.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetNewsByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\Features\\News\\Queries\\GetNewsByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\NewsPulse.Application\\Features\\News\\Queries\\GetNewsByIdQuery.cs",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\Features\\News\\Queries\\GetNewsByIdQuery.cs",
+              "RelativeToolTip": "src\\NewsPulse.Application\\Features\\News\\Queries\\GetNewsByIdQuery.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:57:33.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\NewsPulse.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "src\\NewsPulse.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:56:40.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "NewsContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Infrastructure\\Persistence\\NewsContextSeed.cs",
+              "RelativeDocumentMoniker": "src\\NewsPulse.Infrastructure\\Persistence\\NewsContextSeed.cs",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Infrastructure\\Persistence\\NewsContextSeed.cs",
+              "RelativeToolTip": "src\\NewsPulse.Infrastructure\\Persistence\\NewsContextSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:07:57.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewsPulseDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Infrastructure\\Persistence\\NewsPulseDbContext.cs",
+              "RelativeDocumentMoniker": "src\\NewsPulse.Infrastructure\\Persistence\\NewsPulseDbContext.cs",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Infrastructure\\Persistence\\NewsPulseDbContext.cs",
+              "RelativeToolTip": "src\\NewsPulse.Infrastructure\\Persistence\\NewsPulseDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:39:23.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewsPulse.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj",
+              "RelativeToolTip": "src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-30T11:41:36.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Worker\\Worker.cs",
+              "RelativeDocumentMoniker": "src\\NewsPulse.Worker\\Worker.cs",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Worker\\Worker.cs",
+              "RelativeToolTip": "src\\NewsPulse.Worker\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:42:33.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Worker\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\NewsPulse.Worker\\appsettings.json",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Worker\\appsettings.json",
+              "RelativeToolTip": "src\\NewsPulse.Worker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-30T12:44:56.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\NewsPulse.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\NewsPulse.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-30T12:45:12.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "NewsArticleConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Infrastructure\\Persistence\\Configurations\\NewsArticleConfiguration.cs",
               "RelativeDocumentMoniker": "src\\NewsPulse.Infrastructure\\Persistence\\Configurations\\NewsArticleConfiguration.cs",
@@ -132,54 +375,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NewsPulse.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj",
-              "RelativeToolTip": "src\\NewsPulse.Infrastructure\\NewsPulse.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-30T11:41:36.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NewsPulseDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Infrastructure\\Persistence\\NewsPulseDbContext.cs",
-              "RelativeDocumentMoniker": "src\\NewsPulse.Infrastructure\\Persistence\\NewsPulseDbContext.cs",
-              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Infrastructure\\Persistence\\NewsPulseDbContext.cs",
-              "RelativeToolTip": "src\\NewsPulse.Infrastructure\\Persistence\\NewsPulseDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "NewsArticle.cs",
+              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Domain\\Entities\\NewsArticle.cs",
+              "RelativeDocumentMoniker": "src\\NewsPulse.Domain\\Entities\\NewsArticle.cs",
+              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Domain\\Entities\\NewsArticle.cs",
+              "RelativeToolTip": "src\\NewsPulse.Domain\\Entities\\NewsArticle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T11:39:23.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Domain\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "src\\NewsPulse.Domain\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Domain\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "src\\NewsPulse.Domain\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T11:35:16.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-11-30T11:34:08.89Z",
+              "WhenOpened": "2025-11-30T12:27:20.196Z",
               "EditorCaption": ""
             }
           ]

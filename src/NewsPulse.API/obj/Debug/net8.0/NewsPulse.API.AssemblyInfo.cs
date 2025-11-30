@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NewsPulse.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+682292b66a0d987a8988f5c985e79db72cff4f53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cd00f8e971229fe4a83fe8f98c67ce38a754481")]
 [assembly: System.Reflection.AssemblyProductAttribute("NewsPulse.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NewsPulse.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

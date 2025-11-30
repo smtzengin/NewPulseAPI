@@ -1,7 +1,7 @@
 ﻿version: '3.8'
 
 services:
-  # (SQL Server)
+  # 1. SQL Server (Veritabanı - Kalıcı)
   sqlserver:
     image: mcr.microsoft.com/mssql/server:2022-latest
     container_name: news_sql
@@ -10,29 +10,48 @@ services:
       - SA_PASSWORD=Strong_Password_123!
     ports:
       - "1433:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
     networks:
       - news-net
 
-  # (RabbitMQ)
+  # 2. RabbitMQ (Mesaj Kuyruğu - Kalıcı)
   rabbitmq:
     image: rabbitmq:3-management
     container_name: news_rabbit
     ports:
       - "5672:5672"
       - "15672:15672"
+    volumes:
+      - rabbitmq_data:/var/lib/rabbitmq
     networks:
       - news-net
 
-  #(Redis)
+  # 3. Redis (Önbellek - Kalıcı)
   redis:
     image: redis:alpine
     container_name: news_redis
     ports:
       - "6379:6379"
+    volumes:
+      - redis_data:/data
     networks:
       - news-net
 
-  # (Elasticsearch)
+  # 4. Redis Commander (Arayüz - Stateless)
+  redis-commander:
+    image: rediscommander/redis-commander:latest
+    container_name: news_redis_ui
+    environment:
+      - REDIS_HOSTS=local:redis:6379
+    ports:
+      - "8081:8081"
+    depends_on:
+      - redis
+    networks:
+      - news-net
+
+  # 5. Elasticsearch (Arama Motoru - Kalıcı)
   elasticsearch:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.17.10
     container_name: news_elastic
@@ -41,10 +60,12 @@ services:
       - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
     ports:
       - "9200:9200"
+    volumes:
+      - elastic_data:/usr/share/elasticsearch/data
     networks:
       - news-net
 
-  # (Kibana - Opsiyonel ama analiz için iyidir)
+  # 6. Kibana (Arayüz - Stateless)
   kibana:
     image: docker.elastic.co/kibana/kibana:7.17.10
     container_name: news_kibana
@@ -56,6 +77,15 @@ services:
       - elasticsearch
     networks:
       - news-net
+
+# -----------------------------------------------------------
+# GLOBAL VOLUME TANIMLARI 
+# -----------------------------------------------------------
+volumes:
+  sql_data:
+  rabbitmq_data:
+  redis_data:
+  elastic_data:
 
 networks:
   news-net:

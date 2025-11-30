@@ -5,6 +5,29 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/News/{id}": {
+      "get": {
+        "tags": [
+          "News"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/News": {
       "post": {
         "tags": [
@@ -29,6 +52,18 @@
             }
           }
         },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/News/Sync": {
+      "post": {
+        "tags": [
+          "News"
+        ],
         "responses": {
           "200": {
             "description": "Success"

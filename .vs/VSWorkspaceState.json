@@ -2,13 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\NewsPulse.API",
-    "\\src\\NewsPulse.Application",
     "\\src\\NewsPulse.Domain",
     "\\src\\NewsPulse.Infrastructure",
     "\\src\\NewsPulse.Worker",
     "\\src\\NewsPulse.Worker\\Properties"
   ],
-  "SelectedNode": "\\src\\NewsPulse.Worker\\Program.cs",
+  "SelectedNode": "\\NewsPulse.sln",
   "PreviewInSolutionExplorer": false
 }

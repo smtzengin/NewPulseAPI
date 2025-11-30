@@ -1,0 +1,16 @@
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\bin\Debug\net8.0\NewsPulse.Application.deps.json
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\bin\Debug\net8.0\NewsPulse.Application.dll
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\bin\Debug\net8.0\NewsPulse.Application.pdb
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\bin\Debug\net8.0\NewsPulse.Domain.dll
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\bin\Debug\net8.0\NewsPulse.Domain.pdb
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\obj\Debug\net8.0\NewsPulse.Application.csproj.AssemblyReference.cache
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\obj\Debug\net8.0\NewsPulse.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\obj\Debug\net8.0\NewsPulse.Application.AssemblyInfoInputs.cache
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\obj\Debug\net8.0\NewsPulse.Application.AssemblyInfo.cs
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\obj\Debug\net8.0\NewsPulse.Application.csproj.CoreCompileInputs.cache
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\obj\Debug\net8.0\NewsPulse.Application.sourcelink.json
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\obj\Debug\net8.0\NewsPuls.FE322E5A.Up2Date
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\obj\Debug\net8.0\NewsPulse.Application.dll
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\obj\Debug\net8.0\refint\NewsPulse.Application.dll
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\obj\Debug\net8.0\NewsPulse.Application.pdb
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Application\obj\Debug\net8.0\ref\NewsPulse.Application.dll

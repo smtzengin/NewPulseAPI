@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GuUomBAgCu7xNSAQMBNb5nGFDgykKBrCEqbRafn1PcgDrAFPxyG8nW7IvzHH3QNpSY8tMWW8qiqdqzxy7wd3oQ==",
+  "dgSpecHash": "7DUT/3Yh6Lo=",
   "success": true,
   "projectFilePath": "C:\\Users\\smtzn\\source\\repos\\smtzengin\\NewPulseAPI\\src\\NewsPulse.Application\\NewsPulse.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\smtzn\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

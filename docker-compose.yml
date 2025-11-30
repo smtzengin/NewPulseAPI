@@ -1,5 +1,4 @@
-﻿
-version: '3.8'
+﻿version: '3.8'
 
 services:
   # (SQL Server)
@@ -24,7 +23,7 @@ services:
     networks:
       - news-net
 
-  # (Redis)
+  #(Redis)
   redis:
     image: redis:alpine
     container_name: news_redis

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "NewsPulse.API.Controllers.NewsController",
+    "Method": "Create",
+    "RelativePath": "api/News",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "NewsPulse.Application.Features.News.Commands.CreateNewsCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

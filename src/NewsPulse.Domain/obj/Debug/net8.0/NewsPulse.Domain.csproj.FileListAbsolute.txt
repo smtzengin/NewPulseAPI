@@ -1,0 +1,12 @@
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Domain\bin\Debug\net8.0\NewsPulse.Domain.deps.json
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Domain\bin\Debug\net8.0\NewsPulse.Domain.dll
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Domain\bin\Debug\net8.0\NewsPulse.Domain.pdb
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Domain\obj\Debug\net8.0\NewsPulse.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Domain\obj\Debug\net8.0\NewsPulse.Domain.AssemblyInfoInputs.cache
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Domain\obj\Debug\net8.0\NewsPulse.Domain.AssemblyInfo.cs
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Domain\obj\Debug\net8.0\NewsPulse.Domain.csproj.CoreCompileInputs.cache
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Domain\obj\Debug\net8.0\NewsPulse.Domain.sourcelink.json
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Domain\obj\Debug\net8.0\NewsPulse.Domain.dll
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Domain\obj\Debug\net8.0\refint\NewsPulse.Domain.dll
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Domain\obj\Debug\net8.0\NewsPulse.Domain.pdb
+C:\Users\smtzn\source\repos\smtzengin\NewPulseAPI\src\NewsPulse.Domain\obj\Debug\net8.0\ref\NewsPulse.Domain.dll
